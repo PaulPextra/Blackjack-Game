@@ -1,0 +1,41 @@
+body {
+	text-align: center;
+	color: #fff;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-weight: bold;
+	margin: 0;
+}
+
+.container {
+	background-image: url("image/bj-bg.jpg");
+	width: 300px;
+	height: auto;
+	margin: 20px auto;
+	border: none;
+}
+
+h1 {
+	padding-top: 10px;
+	color: goldenrod;
+}
+
+#player-el {
+	padding-bottom: 15px;
+}
+
+#message-el {
+	font-style: italic;
+}
+
+button {
+	background-color: goldenrod;
+	color: #016f32;
+	width: 150px;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: none;
+	border-radius: 2px;
+	margin-left: 5px; 
+	margin-bottom: 15px;
+}
